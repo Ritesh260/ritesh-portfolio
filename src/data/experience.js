@@ -2,8 +2,8 @@ export const experience = [
   {
     id: 1,
     role: "Junior React Developer",
-    company: "Current Organization",
-    duration: "2025 - Present",
+    company: "Digi Interface Pvt Ltd",
+    duration: "2026 - Present",
 
     description: [
       "Developing modern and responsive web applications using React.js and Next.js",
@@ -18,7 +18,7 @@ export const experience = [
     id: 2,
     role: "Freelance Web Developer",
     company: "Self Employed",
-    duration: "2024 - Present",
+    duration: "2025 - Present",
 
     description: [
       "Developed business websites and custom web solutions",
@@ -39,7 +39,7 @@ export const experience = [
       "Built full-stack MERN applications",
       "Developed Waste Reporting Mumbai civic portal",
       "Created restaurant websites and portfolio platforms",
-      "Worked with MongoDB, MySQL and Firebase",
+      "Worked with MongoDB and MySQL",
       "Focused on scalable architecture and clean UI design",
     ],
   },

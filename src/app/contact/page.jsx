@@ -84,7 +84,7 @@ export default function ContactPage() {
                   </p>
 
                   <p className="text-zinc-400">
-                    yourmail@example.com
+                    riteshsaini734@gmail.com
                   </p>
                 </div>
 

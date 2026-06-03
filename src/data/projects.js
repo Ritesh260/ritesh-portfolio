@@ -6,7 +6,7 @@ export const projects = [
     description:
       "A modern restaurant website featuring online food ordering, admin dashboard, WhatsApp order integration, customer reviews, gallery management and responsive user experience.",
 
-    image: "/projects/gunnu.png",
+    image: "gunnu.png",
 
     tech: [
       "React",
@@ -17,7 +17,7 @@ export const projects = [
 
     github: "#",
 
-    live: "#",
+    live: "https://gunnu-chinese-corner.netlify.app/",
   },
 
   {

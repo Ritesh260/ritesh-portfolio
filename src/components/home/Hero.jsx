@@ -116,7 +116,7 @@ export default function Hero() {
 
             <div>
               <h3 className="text-3xl sm:text-4xl font-bold text-white">
-                15+
+                5+
               </h3>
               <p className="text-zinc-500 mt-2 text-sm sm:text-base">
                 Projects
