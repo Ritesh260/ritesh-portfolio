@@ -86,7 +86,7 @@ export default function Hero() {
             </Link>
 
             <a
-              href="/resume.pdf"
+              href="/RITESH MALI (1).pdf"
               className="
                 px-6 sm:px-8
                 py-3 sm:py-4
@@ -116,7 +116,7 @@ export default function Hero() {
 
             <div>
               <h3 className="text-3xl sm:text-4xl font-bold text-white">
-                5+
+                9+
               </h3>
               <p className="text-zinc-500 mt-2 text-sm sm:text-base">
                 Projects

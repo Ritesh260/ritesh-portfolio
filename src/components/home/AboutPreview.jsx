@@ -102,7 +102,7 @@ export default function AboutPreview() {
             "
             >
               <h3 className="text-5xl font-bold text-white">
-                15+
+                9+
               </h3>
 
               <div className="w-10 h-[2px] bg-[#D4AF37] my-4" />

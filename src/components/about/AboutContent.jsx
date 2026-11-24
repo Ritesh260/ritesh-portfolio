@@ -141,7 +141,7 @@ export default function AboutContent() {
             </p>
 
             <a
-              href="/resume.pdf"
+              href="/RITESH MALI (1).pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="
@@ -169,7 +169,7 @@ export default function AboutContent() {
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6 mt-28">
 
           {[
-            ["15+", "Projects Completed"],
+            ["9+", "Projects Completed"],
             ["React", "Main Expertise"],
             ["MERN", "Full Stack"],
             ["100%", "Responsive Design"],

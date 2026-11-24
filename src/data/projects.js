@@ -1,125 +1,59 @@
+
 export const projects = [
   {
     id: 1,
     title: "Gunnu Chinese Corner",
-
+    category: "Freelance Project",
     description:
-      "A modern restaurant website featuring online food ordering, admin dashboard, WhatsApp order integration, customer reviews, gallery management and responsive user experience.",
-
-    image: "gunnu.png",
-
-    tech: [
-      "React",
-      "Tailwind CSS",
-      "Node.js",
-      "MongoDB",
-    ],
-
+      "A complete restaurant website with online food ordering, menu management, WhatsApp integration, customer reviews and a responsive customer experience.",
+    image: "/gunnu.png",
+    tech: ["React", "Tailwind CSS", "Node.js", "Express.js", "MongoDB"],
     github: "#",
-
     live: "https://gunnu-chinese-corner.netlify.app/",
+    dashboard: "https://gunnu-chinese-dashboard.netlify.app/",
   },
-
   {
     id: 2,
-    title: "Waste Reporting Mumbai",
-
+    title: "Advocate Satish Mishra",
+    category: "Freelance Project",
     description:
-      "A civic issue reporting portal that enables citizens to report local issues with images and location details, while administrators can manage, track and resolve reports through a dedicated dashboard.",
-
-    image: "/projects/waste.png",
-
-    tech: [
-      "PHP",
-      "MySQL",
-      "JavaScript",
-      "Bootstrap",
-    ],
-
+      "A professional and responsive website designed to showcase legal services, advocate profile and professional information.",
+    image: "/advocate.png",
+    tech: ["React", "Tailwind CSS", "JavaScript"],
     github: "#",
-
-    live: "#",
+    live: "https://advocate-satish-mishra.netlify.app/",
   },
-
   {
     id: 3,
-    title: "Spotify Clone",
-
+    title: "BhajiWala – Customer Website",
+    category: "Personal Project",
     description:
-      "A responsive music streaming interface inspired by Spotify, featuring playlists, media controls, interactive UI components and seamless user experience.",
-
-    image: "/projects/spotify.png",
-
-    tech: [
-      "React",
-      "CSS",
-      "JavaScript",
-    ],
-
+      "A modern vegetable e-commerce shopping platform featuring product browsing, categories, cart, checkout, orders and special offers.",
+    image: "/bhajiwala-ui.png",
+    tech: ["Next.js", "React", "Tailwind CSS", "API Integration"],
     github: "#",
-
-    live: "#",
+    live: "https://bhaji-wala-frontend.netlify.app/",
   },
-
   {
     id: 4,
-    title: "AI Chat Website",
-
+    title: "BhajiWala – Admin Dashboard",
+    category: "Personal Project",
     description:
-      "An AI-powered chat platform with a clean and modern interface, responsive design, real-time interactions and an intuitive user experience.",
-
-    image: "/projects/ai-chat.png",
-
-    tech: [
-      "React",
-      "Tailwind CSS",
-      "OpenAI API",
-    ],
-
+      "A dedicated admin management dashboard for managing products, categories, inventory, orders, customers, offers and delivery operations.",
+    image: "/bhajiwala-admin.png",
+    tech: ["Next.js", "React", "Tailwind CSS", "Node.js", "MongoDB"],
     github: "#",
-
-    live: "#",
+    live: "https://bhajiwala-admin-dashboard.netlify.app/",
   },
-
   {
     id: 5,
-    title: "Future Academy",
-
+    title: "BhajiWala – Delivery Partner Dashboard",
+    category: "Personal Project",
     description:
-      "An educational platform providing course information, online admission forms, mock tests, teacher profiles and previous year question papers for students.",
-
-    image: "/projects/future-academy.png",
-
-    tech: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "PHP",
-      "MySQL",
-    ],
-
+      "A dedicated delivery partner interface for handling assigned orders, managing delivery status and coordinating the order delivery workflow.",
+    image: "/delivery-dashboard.png",
+    tech: ["Next.js", "React", "Tailwind CSS", "API Integration"],
     github: "#",
-
-    live: "#",
-  },
-
-  {
-    id: 6,
-    title: "Personal Portfolio",
-
-    description:
-      "A premium developer portfolio built with Next.js and Tailwind CSS showcasing projects, skills, experience and professional achievements with a modern luxury design.",
-
-    image: "/projects/portfolio.png",
-
-    tech: [
-      "Next.js",
-      "Tailwind CSS",
-      "JavaScript",
-    ],
-
-    github: "#",
-
-    live: "#",
+    live: "https://bhajiwala-delivery-partner.netlify.app/",
   },
 ];
